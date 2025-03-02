@@ -36,6 +36,7 @@ python3 Part1.py
 python3 Part2.py
 ```
 6. **View Outputs:**
+- The number of coins in each image will be printed in the terminal
 - Outlined Coins in `Part1_output/{filename}_outlined.png`
 - Separated coins images in `Part1_output/{filename}_segmented_coin_{i}.png`
 - Stitched panorama in `Part2_output/stitched_final_{i}.jpeg`
